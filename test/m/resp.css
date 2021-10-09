@@ -1,0 +1,26 @@
+@media screen and (max-width: 484px) {
+  #main {
+    width: 100%; 
+  }
+}
+.bottom-nav-bar {
+  margin-bottom: -5%;
+}
+.btn-nav {
+  text-align: center;
+  margin-left: 50%;
+  color: #d5d1cc;
+}
+.spc-mob-nav {
+  width: 12%;
+}
+.txt-mob-nav {
+  font-family: vazir;
+  font-size: 0.7rem;
+  color: #d5d1cc;
+}
+.txt-mob-nav-cont {
+  text-align: center;
+  direction: rtl;
+  margin-top: 9%;
+}
