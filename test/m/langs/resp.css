@@ -1,0 +1,50 @@
+@media screen and (max-width: 484px) {
+  #main {
+    width: 100%; 
+  }
+}
+.bottom-nav-bar {
+  margin-bottom: -5%;
+}
+.btn-nav {
+  text-align: center;
+  margin-left: 50%;
+  color: #d5d1cc;
+}
+.spc-mob-nav {
+  width: 12%;
+}
+.txt-mob-nav {
+  font-family: vazir;
+  font-size: 0.7rem;
+  color: #d5d1cc;
+}
+.txt-mob-nav-cont {
+  text-align: center;
+  direction: rtl;
+  margin-top: 9%;
+}
+.main-frame-cont {
+  margin-top: -7em;
+  text-align: center;
+  position: relative;
+  overflow-y: hidden;
+
+}
+.main-frame {
+  display: block;
+  width: 100%;
+  height: 31rem;
+  border: none;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+#header-txt {
+  text-align: center;
+  font-family: Arial, Helvetica;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: -15%;
+  margin-bottom: -15%;
+  color: #d5d1cc;
+}
